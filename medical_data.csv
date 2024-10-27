@@ -1,0 +1,6 @@
+fever,headache,cough,runny_nose,fatigue,nausea,vomiting,chest_pain,shortness_breath,rash,itching,disease
+1,1,1,1,1,0,0,0,0,0,0,Common Cold
+0,0,1,1,0,0,0,0,1,0,0,Bronchitis
+1,1,0,0,1,1,1,0,0,0,0,Gastroenteritis
+0,0,0,0,1,0,0,1,1,0,0,Respiratory Infection
+1,0,0,0,1,0,0,0,0,1,1,Allergic Reaction
